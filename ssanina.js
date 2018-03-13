@@ -10,4 +10,5 @@ function makeCounter() {
 var ssanina = makeCounter();
 console.log( ssanina() ); // 1
 console.log( ssanina() ); // 2
-//git
+//git 
+// хуест 2
