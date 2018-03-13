@@ -2,7 +2,7 @@ function makeCounter() {
   function counter() {
     return counter.currentCount++;
   };
-  counter.currentCount = 1;
+  counter.currentCount = 2;
 
   return counter();
 }
